@@ -31,7 +31,7 @@ This repository contains the notebook and the execution reuslta on Google Collab
 ## Results
 Experiments were conducted using  Figure shows evaluations of different quantization approaches for different metrics for the SmolVLM model.
 Quantization approaches:
-![Evaluation figures](plots/combined_metrics.png)
+![Evaluation figures](results/plots/combined_metrics.png)
 
 
 ## Environment
