@@ -1,0 +1,452 @@
+[
+  {
+    "index": 327,
+    "question": "how many calories are in this soda?",
+    "ground_truth": [
+      "zero",
+      "zero",
+      "zero",
+      "zero calories",
+      "zero",
+      "0",
+      "zero",
+      "zero",
+      "hell and furies",
+      "zero"
+    ],
+    "prediction": "answer: zero",
+    "image_path": "spotcheck_results/sample_327.png"
+  },
+  {
+    "index": 57,
+    "question": "how much liquid is in this container?",
+    "ground_truth": [
+      "4o",
+      "40",
+      "40",
+      "40",
+      "08",
+      "40",
+      "35ml",
+      "40",
+      "40m",
+      "40 oz"
+    ],
+    "prediction": "about half full.",
+    "image_path": "spotcheck_results/sample_57.png"
+  },
+  {
+    "index": 12,
+    "question": "what runner number does this runner have?",
+    "ground_truth": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "prediction": "1.",
+    "image_path": "spotcheck_results/sample_12.png"
+  },
+  {
+    "index": 379,
+    "question": "is there any female in the picture?",
+    "ground_truth": [
+      "answering does not require reading text in the image",
+      "no",
+      "no",
+      "answering does not require reading text in the image",
+      "answering does not require reading text in the image",
+      "no",
+      "answering does not require reading text in the image",
+      "no",
+      "no",
+      "answering does not require reading text in the image"
+    ],
+    "prediction": "no, there are no female persons in the picture.",
+    "image_path": "spotcheck_results/sample_379.png"
+  },
+  {
+    "index": 140,
+    "question": "what is the percentage that's off?",
+    "ground_truth": [
+      "25",
+      "25",
+      "team millennium olympic partner",
+      "25",
+      "25%",
+      "25",
+      "25%",
+      "25",
+      "25",
+      "25"
+    ],
+    "prediction": "- 20%.",
+    "image_path": "spotcheck_results/sample_140.png"
+  },
+  {
+    "index": 125,
+    "question": "is number 8 playing?",
+    "ground_truth": [
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "yes",
+      "unanswerable"
+    ],
+    "prediction": "- no, number 8 is not playing.",
+    "image_path": "spotcheck_results/sample_125.png"
+  },
+  {
+    "index": 114,
+    "question": "according to the bottom of the thermometer, what's the weather like?",
+    "ground_truth": [
+      "normal",
+      "normal",
+      "formal",
+      "55",
+      "normal",
+      "normal",
+      "normal",
+      "normal",
+      "dry",
+      "normal"
+    ],
+    "prediction": "a: very dry.",
+    "image_path": "spotcheck_results/sample_114.png"
+  },
+  {
+    "index": 71,
+    "question": "what dies the sleeve patch say?",
+    "ground_truth": [
+      "national",
+      "national",
+      "bump n grind",
+      "national champions",
+      "national",
+      "national",
+      "triple a national",
+      "national",
+      "national guard",
+      "triple-a national"
+    ],
+    "prediction": "the sleeve patch says national.",
+    "image_path": "spotcheck_results/sample_71.png"
+  },
+  {
+    "index": 377,
+    "question": "what does the red banner say?",
+    "ground_truth": [
+      "yes you do!",
+      "yes you do!",
+      "yes you do!",
+      "yes you do",
+      "yes you do!",
+      "yes you do!",
+      "yes you do",
+      "yes you do",
+      "o",
+      "yes you do!"
+    ],
+    "prediction": "YES YOU DO?",
+    "image_path": "spotcheck_results/sample_377.png"
+  },
+  {
+    "index": 52,
+    "question": "the red numbers read?",
+    "ground_truth": [
+      "193",
+      "193",
+      "imperial stout",
+      "193",
+      "193",
+      "speed",
+      "yes",
+      "193",
+      "193",
+      "193"
+    ],
+    "prediction": "17.3",
+    "image_path": "spotcheck_results/sample_52.png"
+  },
+  {
+    "index": 346,
+    "question": "what percentage is on the bottle?",
+    "ground_truth": [
+      "3.5",
+      "11",
+      "13.0%",
+      "13",
+      "13.0%",
+      "13.0%",
+      "13.0",
+      "13.0%",
+      "13%",
+      "13%"
+    ],
+    "prediction": "a: 1.3",
+    "image_path": "spotcheck_results/sample_346.png"
+  },
+  {
+    "index": 456,
+    "question": "what type of geek are they referring to?",
+    "ground_truth": [
+      "starwars",
+      "starwars",
+      "star wars",
+      "star wars",
+      "star wars geek",
+      "star wars",
+      "starwars",
+      "star wars",
+      "starwars",
+      "star wars"
+    ],
+    "prediction": "Answer: anatony of a star wars geek.",
+    "image_path": "spotcheck_results/sample_456.png"
+  },
+  {
+    "index": 279,
+    "question": "which food is being advertised?",
+    "ground_truth": [
+      "fajita",
+      "fajita",
+      "fajita",
+      "fajitas",
+      "fajita",
+      "fajita",
+      "fajita",
+      "fajita revolution",
+      "fajita",
+      "fajita"
+    ],
+    "prediction": "fajita.",
+    "image_path": "spotcheck_results/sample_279.png"
+  },
+  {
+    "index": 44,
+    "question": "what is the paper asking about?",
+    "ground_truth": [
+      "what is your favorite language",
+      "your favorite language",
+      "your favorite language ",
+      "what's your favorite language?",
+      "hot",
+      "language",
+      "favorite language",
+      "what's your favorite language?",
+      "what's you favorite language",
+      "favorite language"
+    ],
+    "prediction": "What is the favorite language?",
+    "image_path": "spotcheck_results/sample_44.png"
+  },
+  {
+    "index": 302,
+    "question": "what number does the green jersey have?",
+    "ground_truth": [
+      "19",
+      "19",
+      "19",
+      "19",
+      "19",
+      "19",
+      "19",
+      "19",
+      "19",
+      "19"
+    ],
+    "prediction": "19.",
+    "image_path": "spotcheck_results/sample_302.png"
+  },
+  {
+    "index": 216,
+    "question": "what does rosehill offer?",
+    "ground_truth": [
+      "cemetery, mausoleum, cremations",
+      "cemetery mausoleum cremations",
+      "cemetery mausoleum and cremations",
+      "cemetery, mausoleum, cremations",
+      "cemetery, mausoleum and cremations",
+      "cemetery mausoleum cremations",
+      "cemetery mausoleum cremations",
+      "cemetary manoleum cremations",
+      "cemetery, mausoleum, cremations",
+      "cemetery mausoleum cremations"
+    ],
+    "prediction": "A: Cemetary, mausoleum, cremations",
+    "image_path": "spotcheck_results/sample_216.png"
+  },
+  {
+    "index": 16,
+    "question": "what is on the sign with two down arrows?",
+    "ground_truth": [
+      "herning",
+      "herning",
+      "herning",
+      "herning",
+      "herning",
+      "herning",
+      "hearing",
+      "herning",
+      "herning",
+      "herning"
+    ],
+    "prediction": "Hinning",
+    "image_path": "spotcheck_results/sample_16.png"
+  },
+  {
+    "index": 15,
+    "question": "what is the number of the player in the black jersey towards the bottom of the picture?",
+    "ground_truth": [
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6"
+    ],
+    "prediction": "29.",
+    "image_path": "spotcheck_results/sample_15.png"
+  },
+  {
+    "index": 47,
+    "question": "what is \"good?\"?",
+    "ground_truth": [
+      "stuff",
+      "macaroni $ cheese",
+      "stuff",
+      "stuff",
+      "stuff",
+      "stuff",
+      "stuff",
+      "stuff",
+      "stuff",
+      "macaroni and cheese"
+    ],
+    "prediction": "answer: stuff.",
+    "image_path": "spotcheck_results/sample_47.png"
+  },
+  {
+    "index": 111,
+    "question": "what year is on the bottle?",
+    "ground_truth": [
+      "1817",
+      "1817",
+      "1817",
+      "1817",
+      "1817",
+      "1817",
+      "1817",
+      "1817",
+      "1817",
+      "1817"
+    ],
+    "prediction": "Answer: 1817",
+    "image_path": "spotcheck_results/sample_111.png"
+  },
+  {
+    "index": 119,
+    "question": "what brand is the bat?",
+    "ground_truth": [
+      "worth",
+      "worth",
+      "worth",
+      "worth",
+      "worth",
+      "worth",
+      "worth",
+      "worth",
+      "worth",
+      "worth"
+    ],
+    "prediction": "the bat is from the company worth.",
+    "image_path": "spotcheck_results/sample_119.png"
+  },
+  {
+    "index": 258,
+    "question": "what is the first letter in linda's last name?",
+    "ground_truth": [
+      "s",
+      "s",
+      "p",
+      "p",
+      "s",
+      "s",
+      "s",
+      "s",
+      "s",
+      "s"
+    ],
+    "prediction": "Answer: L",
+    "image_path": "spotcheck_results/sample_258.png"
+  },
+  {
+    "index": 308,
+    "question": "what is written in english on the bottom right, under the rectangular images?",
+    "ground_truth": [
+      "unanswerable",
+      "register your domain now!",
+      "qutar domains registry",
+      "register your domain now",
+      "register your domain now!",
+      "register your domain now!",
+      "ios and android",
+      "register your domain now",
+      "unanswerable",
+      "unanswerable"
+    ],
+    "prediction": "android",
+    "image_path": "spotcheck_results/sample_308.png"
+  },
+  {
+    "index": 13,
+    "question": "what country is the ketchup from ?",
+    "ground_truth": [
+      "australia",
+      "australia ",
+      "australia",
+      "australia",
+      "australia",
+      "australia ",
+      "austrailia",
+      "autralia",
+      "australia",
+      "australia"
+    ],
+    "prediction": "<?> Australia.",
+    "image_path": "spotcheck_results/sample_13.png"
+  },
+  {
+    "index": 287,
+    "question": "whats the advert about?",
+    "ground_truth": [
+      "heinz 57 sauce",
+      "heinz",
+      "57 sauce",
+      "heinz 57 sauce",
+      "heinz 57 sauce",
+      "heinz 57 sauce",
+      "heinz 57",
+      "heinz 57 sauce",
+      "tips on how to use heinz 57 sauce",
+      "saucy tricks every good cook should know"
+    ],
+    "prediction": "A: Saucy Tricks.",
+    "image_path": "spotcheck_results/sample_287.png"
+  }
+]

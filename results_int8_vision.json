@@ -1,0 +1,11 @@
+{
+  "precision": "int8_vision",
+  "samples": 500,
+  "accuracy": 0.44,
+  "latency_avg_s": 1.4554,
+  "vram_peak_MB": 4608.61,
+  "throughput_img_per_s": 0.59,
+  "model_size_GB": 3.965,
+  "total_runtime_s": 848.62,
+  "energy_Wh": 27.836
+}
