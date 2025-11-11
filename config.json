@@ -5,5 +5,5 @@
     "sample_seed": 42,
     "spotcheck_sample_size": 25,
     "spotcheck_sample_seed": 42,
-    "reuslts_dir": "results"
+    "results_dir": "results"
 }
