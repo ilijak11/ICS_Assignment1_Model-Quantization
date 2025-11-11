@@ -1,6 +1,6 @@
 ## ICS_Assignment1_Model-Quantization
 
-This repository contains the notebook and the execution reuslta on Google Collab T4 instance. 
+This repository contains the notebook and the execution reuslts on Google Collab T4 instance. 
 
 ## Repository structure
 
@@ -19,7 +19,7 @@ This repository contains the notebook and the execution reuslta on Google Collab
 ## Experiment description
 
 - Used [HuggingFaceTB/SmolVLM-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) as base model.
-- Evaluated on [facebook/textvqa](https://huggingface.co/datasets/facebook/textvqa) dataset
+- Evaluated on [lmms-lab/textvqa](https://huggingface.co/datasets/lmms-lab/textvqa) dataset
 - Quantization strategies implemented in the notebook:
   - `fp16` — baseline using float16 model weights
   - `int8_text` — 8-bit weight-only quantization applied to text-related layers (via bitsandbytes)
