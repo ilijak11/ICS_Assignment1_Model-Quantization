@@ -7,18 +7,19 @@ This repository contains the notebook and the execution reuslta on Google Collab
 | Path | Purpose |
 |---|---|
 | [`ICS_Ass1.ipynb`](ICS_Ass1.ipynb) | Jupyter notebook with the experiment pipeline: model loading (FP16 / INT8_TEXT, INT8_VISION), dataset selection, inference, metrics collection, spot-checks, and plotting. |
-| [`emissions_fp16.csv`](emissions_fp16.csv), [`emissions_int8_text.csv`](emissions_int8_text.csv), [`emissions_int8_vision.csv`](emissions_int8_vision.csv) | CodeCarbon energy logs produced during each experiment. |
-| [`model_structure_fp16.txt`](model_structure_fp16.txt), [`model_structure_int8_text.txt`](model_structure_int8_text.txt), [`model_structure_int8_vision.txt`](model_structure_int8_vision.txt) | Text dumps of the model architecture for each quantization configuration. |
-| [`results_fp16.json`](results_fp16.json), [`results_int8_text.json`](results_int8_text.json), [`results_int8_vision.json`](results_int8_vision.json) | Experiment summaries (accuracy, latency, VRAM, throughput, model size, runtime, energy). |
-| [`validation_subset_inidices.json`](validation_subset_inidices.json) | Saved random subset indices used for the validation runs (reproducibility). |
+| [`emissions_fp16.csv`](results/emissions_fp16.csv), [`emissions_int8_text.csv`](results/emissions_int8_text.csv), [`emissions_int8_vision.csv`](results/emissions_int8_vision.csv) | CodeCarbon energy logs produced during each experiment. |
+| [`model_structure_fp16.txt`](results/model_structure_fp16.txt), [`model_structure_int8_text.txt`](results/model_structure_int8_text.txt), [`model_structure_int8_vision.txt`](results/model_structure_int8_vision.txt) | Text dumps of the model architecture for each quantization configuration. |
+| [`results_fp16.json`](results/results_fp16.json), [`results_int8_text.json`](results/results_int8_text.json), [`results_int8_vision.json`](results/results_int8_vision.json) | Experiment summaries (accuracy, latency, VRAM, throughput, model size, runtime, energy). |
+| [`validation_subset_inidices.json`](results/validation_subset_inidices.json) | Saved random subset indices used for the validation runs (reproducibility). |
 | [`config.json`](config.json) | Configuration file to set experiment settings (dataset name, model, sample size, quantization options). |
-| [`plots/`](plots/) | Generated PNG plots (combined and per-metric visualizations). |
-| [`spotcheck_results/`](spotcheck_results/) | Saved sample images and human spot-check JSONs (e.g., `human_spotcheck_fp16.json`, `human_spotcheck_int8_text.json`). |
+| [`plots/`](results/plots/) | Generated PNG plots (combined and per-metric visualizations). |
+| [`spotcheck_results/`](results/spotcheck_results/) | Saved sample images and human spot-check JSONs (e.g., `human_spotcheck_fp16.json`, `human_spotcheck_int8_text.json`). |
 
 
 ## Experiment description
 
-- Used [SmolVLM-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) as base model.
+- Used [HuggingFaceTB/SmolVLM-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM-Instruct) as base model.
+- Evaluated on [facebook/textvqa](https://huggingface.co/datasets/facebook/textvqa) dataset
 - Quantization strategies implemented in the notebook:
   - `fp16` — baseline using float16 model weights
   - `int8_text` — 8-bit weight-only quantization applied to text-related layers (via bitsandbytes)
