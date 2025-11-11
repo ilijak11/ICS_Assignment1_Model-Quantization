@@ -1,11 +1,11 @@
 {
   "precision": "fp16",
   "samples": 500,
-  "accuracy": 0.452,
-  "latency_avg_s": 1.016,
+  "accuracy": 0.444,
+  "latency_avg_s": 0.9863,
   "vram_peak_MB": 4972.96,
-  "throughput_img_per_s": 0.78,
+  "throughput_img_per_s": 0.81,
   "model_size_GB": 4.497,
-  "total_runtime_s": 644.02,
-  "energy_Wh": 20.849
+  "total_runtime_s": 616.53,
+  "energy_Wh": 19.993
 }

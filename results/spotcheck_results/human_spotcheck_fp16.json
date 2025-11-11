@@ -14,8 +14,8 @@
       "hell and furies",
       "zero"
     ],
-    "prediction": "answer: 0",
-    "image_path": "spotcheck_results/sample_327.png"
+    "prediction": "answer: zero.",
+    "image_path": "results/spotcheck_results/sample_327.png"
   },
   {
     "index": 57,
@@ -33,7 +33,7 @@
       "40 oz"
     ],
     "prediction": "about half full.",
-    "image_path": "spotcheck_results/sample_57.png"
+    "image_path": "results/spotcheck_results/sample_57.png"
   },
   {
     "index": 12,
@@ -51,7 +51,7 @@
       "1"
     ],
     "prediction": "1.",
-    "image_path": "spotcheck_results/sample_12.png"
+    "image_path": "results/spotcheck_results/sample_12.png"
   },
   {
     "index": 379,
@@ -69,7 +69,7 @@
       "answering does not require reading text in the image"
     ],
     "prediction": "no, there are no female persons in the picture.",
-    "image_path": "spotcheck_results/sample_379.png"
+    "image_path": "results/spotcheck_results/sample_379.png"
   },
   {
     "index": 140,
@@ -86,8 +86,8 @@
       "25",
       "25"
     ],
-    "prediction": "- 25%.",
-    "image_path": "spotcheck_results/sample_140.png"
+    "prediction": "- 20%.",
+    "image_path": "results/spotcheck_results/sample_140.png"
   },
   {
     "index": 125,
@@ -105,7 +105,7 @@
       "unanswerable"
     ],
     "prediction": "yes, number 8 is playing.",
-    "image_path": "spotcheck_results/sample_125.png"
+    "image_path": "results/spotcheck_results/sample_125.png"
   },
   {
     "index": 114,
@@ -122,8 +122,8 @@
       "dry",
       "normal"
     ],
-    "prediction": "a: very dry.",
-    "image_path": "spotcheck_results/sample_114.png"
+    "prediction": "very dry.",
+    "image_path": "results/spotcheck_results/sample_114.png"
   },
   {
     "index": 71,
@@ -141,7 +141,7 @@
       "triple-a national"
     ],
     "prediction": "the sleeve patch says national.",
-    "image_path": "spotcheck_results/sample_71.png"
+    "image_path": "results/spotcheck_results/sample_71.png"
   },
   {
     "index": 377,
@@ -159,7 +159,7 @@
       "yes you do!"
     ],
     "prediction": "YES YOU DO?",
-    "image_path": "spotcheck_results/sample_377.png"
+    "image_path": "results/spotcheck_results/sample_377.png"
   },
   {
     "index": 52,
@@ -176,8 +176,8 @@
       "193",
       "193"
     ],
-    "prediction": "17:35",
-    "image_path": "spotcheck_results/sample_52.png"
+    "prediction": "10.3",
+    "image_path": "results/spotcheck_results/sample_52.png"
   },
   {
     "index": 346,
@@ -194,8 +194,8 @@
       "13%",
       "13%"
     ],
-    "prediction": "a: 1.3",
-    "image_path": "spotcheck_results/sample_346.png"
+    "prediction": "A: 3.9.",
+    "image_path": "results/spotcheck_results/sample_346.png"
   },
   {
     "index": 456,
@@ -212,8 +212,8 @@
       "starwars",
       "star wars"
     ],
-    "prediction": "answer: anatony of a star wars geek.",
-    "image_path": "spotcheck_results/sample_456.png"
+    "prediction": "Answer: anatony of a star wars geek.",
+    "image_path": "results/spotcheck_results/sample_456.png"
   },
   {
     "index": 279,
@@ -231,7 +231,7 @@
       "fajita"
     ],
     "prediction": "fajita.",
-    "image_path": "spotcheck_results/sample_279.png"
+    "image_path": "results/spotcheck_results/sample_279.png"
   },
   {
     "index": 44,
@@ -248,8 +248,8 @@
       "what's you favorite language",
       "favorite language"
     ],
-    "prediction": "What is the paper asking about?",
-    "image_path": "spotcheck_results/sample_44.png"
+    "prediction": "Answer: favorite language.",
+    "image_path": "results/spotcheck_results/sample_44.png"
   },
   {
     "index": 302,
@@ -266,8 +266,8 @@
       "19",
       "19"
     ],
-    "prediction": "19.",
-    "image_path": "spotcheck_results/sample_302.png"
+    "prediction": "19",
+    "image_path": "results/spotcheck_results/sample_302.png"
   },
   {
     "index": 216,
@@ -284,8 +284,8 @@
       "cemetery, mausoleum, cremations",
       "cemetery mausoleum cremations"
     ],
-    "prediction": "A: Cemetary, mausoleum, cremations",
-    "image_path": "spotcheck_results/sample_216.png"
+    "prediction": "A cemetery, mausoleum, and cremations.",
+    "image_path": "results/spotcheck_results/sample_216.png"
   },
   {
     "index": 16,
@@ -302,8 +302,8 @@
       "herning",
       "herning"
     ],
-    "prediction": "Herning",
-    "image_path": "spotcheck_results/sample_16.png"
+    "prediction": "Hint: Mornings.",
+    "image_path": "results/spotcheck_results/sample_16.png"
   },
   {
     "index": 15,
@@ -321,7 +321,7 @@
       "6"
     ],
     "prediction": "29.",
-    "image_path": "spotcheck_results/sample_15.png"
+    "image_path": "results/spotcheck_results/sample_15.png"
   },
   {
     "index": 47,
@@ -339,7 +339,7 @@
       "macaroni and cheese"
     ],
     "prediction": "answer: stuff.",
-    "image_path": "spotcheck_results/sample_47.png"
+    "image_path": "results/spotcheck_results/sample_47.png"
   },
   {
     "index": 111,
@@ -357,7 +357,7 @@
       "1817"
     ],
     "prediction": "Answer: 1817",
-    "image_path": "spotcheck_results/sample_111.png"
+    "image_path": "results/spotcheck_results/sample_111.png"
   },
   {
     "index": 119,
@@ -375,7 +375,7 @@
       "worth"
     ],
     "prediction": "the bat is from the company worth.",
-    "image_path": "spotcheck_results/sample_119.png"
+    "image_path": "results/spotcheck_results/sample_119.png"
   },
   {
     "index": 258,
@@ -393,7 +393,7 @@
       "s"
     ],
     "prediction": "Answer: l",
-    "image_path": "spotcheck_results/sample_258.png"
+    "image_path": "results/spotcheck_results/sample_258.png"
   },
   {
     "index": 308,
@@ -410,8 +410,8 @@
       "unanswerable",
       "unanswerable"
     ],
-    "prediction": "android",
-    "image_path": "spotcheck_results/sample_308.png"
+    "prediction": "answer: android.",
+    "image_path": "results/spotcheck_results/sample_308.png"
   },
   {
     "index": 13,
@@ -429,7 +429,7 @@
       "australia"
     ],
     "prediction": "<!-- Answer: Australia.",
-    "image_path": "spotcheck_results/sample_13.png"
+    "image_path": "results/spotcheck_results/sample_13.png"
   },
   {
     "index": 287,
@@ -446,7 +446,7 @@
       "tips on how to use heinz 57 sauce",
       "saucy tricks every good cook should know"
     ],
-    "prediction": "Answer: Saucy Tricks",
-    "image_path": "spotcheck_results/sample_287.png"
+    "prediction": "answer: Saucy Tricks",
+    "image_path": "results/spotcheck_results/sample_287.png"
   }
 ]

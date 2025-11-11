@@ -1,11 +1,11 @@
 {
   "precision": "int8_text",
   "samples": 500,
-  "accuracy": 0.458,
-  "latency_avg_s": 1.6214,
+  "accuracy": 0.44,
+  "latency_avg_s": 1.6016,
   "vram_peak_MB": 3297.7,
-  "throughput_img_per_s": 0.54,
+  "throughput_img_per_s": 0.55,
   "model_size_GB": 2.788,
-  "total_runtime_s": 928.94,
-  "energy_Wh": 28.509
+  "total_runtime_s": 910.4,
+  "energy_Wh": 27.908
 }
