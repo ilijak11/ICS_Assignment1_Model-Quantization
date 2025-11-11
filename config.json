@@ -1,6 +1,6 @@
 {
     "model": "HuggingFaceTB/SmolVLM-Instruct",
-    "dataset": "facebook/textvqa",
+    "dataset": "lmms-lab/textvqa",
     "sample_size": 500,
     "sample_seed": 42,
     "spotcheck_sample_size": 25,
